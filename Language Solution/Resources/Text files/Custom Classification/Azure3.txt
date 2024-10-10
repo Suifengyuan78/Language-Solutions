@@ -1,0 +1,3 @@
+Azure Cosmos DB
+
+Azure Cosmos DB is a globally distributed, multi-model database service that offers single-digit millisecond response times at the 99th percentile. It supports multiple data models, including key-value, document, column-family, and graph formats. With its global distribution capabilities, users can replicate their data across multiple Azure regions, ensuring low latency access and high availability. Cosmos DB is designed to scale throughput and storage across any number of Azure regions globally, providing comprehensive SLAs that encompass throughput, latency, availability, and consistency.

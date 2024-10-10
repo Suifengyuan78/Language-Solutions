@@ -1,0 +1,1 @@
+Kevin Martinez in the engineering department notices that his Dell Inspiron running Linux Ubuntu is not maintaining a stable connection to the company's internal network, disrupting his access to shared engineering resources and collaborative platforms.

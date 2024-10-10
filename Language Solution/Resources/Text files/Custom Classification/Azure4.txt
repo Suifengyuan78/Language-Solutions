@@ -1,0 +1,3 @@
+Azure Cognitive Services
+
+Azure Cognitive Services brings AI within reach of every developer, without requiring machine-learning expertise. This suite of services offers pre-built and customizable AI models that can be integrated into applications to create more engaging and intelligent user experiences. Services include Vision for image processing, Speech for audio processing, Language understanding for natural language processing, and Decision making to create recommendations and analyze user behavior. These AI capabilities can be applied across various scenarios, from translating spoken language in real-time to analyzing sentiments in customer feedback.

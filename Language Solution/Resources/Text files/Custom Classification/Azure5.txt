@@ -1,0 +1,3 @@
+Entra ID
+
+Entra ID (formally Azure Active Directory) is Microsoft's cloud-based identity and access management service, which helps employees sign in and access resources in external resources such as Microsoft 365, the Azure portal, and thousands of other SaaS applications. Entra ID also supports internal resources like apps on your corporate network and intranet. It offers a comprehensive set of capabilities including multi-factor authentication, conditional access policies, and integrated identity protection, enabling secure and seamless access control for organizations of all sizes.
